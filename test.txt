@@ -2,3 +2,4 @@ Hello World !
 Here is a new message.
 Third message !
 Fixing issue.
+Fixing issue 3.
